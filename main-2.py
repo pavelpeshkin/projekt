@@ -26,3 +26,4 @@ async def joined(ctx, member: discord.Member):
   
 
 bot.run("MTExNjAzMTY1ODg0ODY4NjIwMA.GTHTIi.Kr7fKlcK2tU57y1nG5vr3-8zLXgGHdMFOCE6Lw")
+lgg
